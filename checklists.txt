@@ -1,0 +1,6 @@
+Registration
+Authorization
+Profile edit
+Cart
+Payments
+
