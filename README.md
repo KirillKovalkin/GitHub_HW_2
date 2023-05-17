@@ -70,6 +70,16 @@
     git checkout CheckLists
     touch checklists.txt
     vim checklists.txt
+    
+    add
+    
+    Registration
+    Authorization
+    Profile edit
+    Cart
+    Payments
+    
+    esc > :wq! > enter
 
 :small_blue_diamond: **8. Запушить структуру на внешний репозиторий**
 
