@@ -89,7 +89,7 @@
 
 **9. На внешнем репозитории сделать Pull Request ветки CheckLists в main**
 
-    visit git repositories at github.com
+    visit remote git repository at github.com
     click the button [Compare&pull request] on the remote repository
     choose base: main < compare: CheckLists
     add title
