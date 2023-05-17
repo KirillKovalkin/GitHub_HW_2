@@ -90,10 +90,14 @@
 **9. На внешнем репозитории сделать Pull Request ветки CheckLists в main**
 
     visit git repositories at github.com
-    switch branch to check list
-    select compare and pull request
-    accept merge
+    click the button [Compare&pull request] on the remote repository
+    choose base: main < compare: CheckLists
+    add title
+    click the button [create pull request]
+    click the button [merge pull request]
+    click the button [confirm merge]
 
 **10. Синхронизировать Внешнюю и Локальную ветки Main**
+
     git checkout main
     git pull
